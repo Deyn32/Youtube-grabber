@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>YouTube_Downloader</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="SharpGrabber" Version="2.1.1" />
+    <PackageReference Include="SharpGrabber.Converter" Version="1.1.0" />
+    <PackageReference Include="SharpGrabber.YouTube" Version="1.5.0" />
+  </ItemGroup>
+
+</Project>

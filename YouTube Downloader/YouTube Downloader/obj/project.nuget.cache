@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/K2dy9QCCiBL2C6eeFkI16eziesyXTkTAFTF+E/rs4eGRy6OATNkkv0Ww6eqdmOvv8uYUuSncrbxXwVlnDzlmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\YouTube Downloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\otd6634\\.nuget\\packages\\esprima\\2.1.2\\esprima.2.1.2.nupkg.sha512",
+    "C:\\Users\\otd6634\\.nuget\\packages\\ffmpeg.autogen\\6.0.0.2\\ffmpeg.autogen.6.0.0.2.nupkg.sha512",
+    "C:\\Users\\otd6634\\.nuget\\packages\\jint\\3.0.0-beta-2038\\jint.3.0.0-beta-2038.nupkg.sha512",
+    "C:\\Users\\otd6634\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\otd6634\\.nuget\\packages\\sharpgrabber\\2.1.1\\sharpgrabber.2.1.1.nupkg.sha512",
+    "C:\\Users\\otd6634\\.nuget\\packages\\sharpgrabber.converter\\1.1.0\\sharpgrabber.converter.1.1.0.nupkg.sha512",
+    "C:\\Users\\otd6634\\.nuget\\packages\\sharpgrabber.youtube\\1.5.0\\sharpgrabber.youtube.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

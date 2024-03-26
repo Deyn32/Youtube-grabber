@@ -1,0 +1,25 @@
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\YouTube Downloader.exe
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\YouTube Downloader.deps.json
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\YouTube Downloader.runtimeconfig.json
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\YouTube Downloader.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\YouTube Downloader.pdb
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\Esprima.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\FFmpeg.AutoGen.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\Jint.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\SharpGrabber.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\SharpGrabber.Converter.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\bin\Release\net6.0-windows\SharpGrabber.YouTube.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.csproj.AssemblyReference.cache
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube_Downloader.Form1.resources
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.csproj.GenerateResource.cache
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.AssemblyInfoInputs.cache
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.AssemblyInfo.cs
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.csproj.CoreCompileInputs.cache
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube .F6BE5833.Up2Date
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\refint\YouTube Downloader.dll
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.pdb
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\YouTube Downloader.genruntimeconfig.cache
+C:\Users\otd6634\source\repos\YouTube Downloader\YouTube Downloader\obj\Release\net6.0-windows\ref\YouTube Downloader.dll

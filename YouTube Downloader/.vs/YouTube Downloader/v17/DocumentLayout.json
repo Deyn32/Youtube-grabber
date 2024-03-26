@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA534A-F0C0-47FE-BD12-ADF8E54464ED}|YouTube Downloader\\YouTube Downloader.csproj|c:\\users\\otd6634\\source\\repos\\youtube downloader\\youtube downloader\\services\\youtubedownloadserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA534A-F0C0-47FE-BD12-ADF8E54464ED}|YouTube Downloader\\YouTube Downloader.csproj|solutionrelative:youtube downloader\\services\\youtubedownloadserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA534A-F0C0-47FE-BD12-ADF8E54464ED}|YouTube Downloader\\YouTube Downloader.csproj|c:\\users\\otd6634\\source\\repos\\youtube downloader\\youtube downloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA534A-F0C0-47FE-BD12-ADF8E54464ED}|YouTube Downloader\\YouTube Downloader.csproj|solutionrelative:youtube downloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA534A-F0C0-47FE-BD12-ADF8E54464ED}|YouTube Downloader\\YouTube Downloader.csproj|c:\\users\\otd6634\\source\\repos\\youtube downloader\\youtube downloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74CA534A-F0C0-47FE-BD12-ADF8E54464ED}|YouTube Downloader\\YouTube Downloader.csproj|solutionrelative:youtube downloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA534A-F0C0-47FE-BD12-ADF8E54464ED}|YouTube Downloader\\YouTube Downloader.csproj|c:\\users\\otd6634\\source\\repos\\youtube downloader\\youtube downloader\\services\\iyoutubedownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA534A-F0C0-47FE-BD12-ADF8E54464ED}|YouTube Downloader\\YouTube Downloader.csproj|solutionrelative:youtube downloader\\services\\iyoutubedownloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YouTubeDownloadServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\Services\\YouTubeDownloadServiceImpl.cs",
+              "RelativeDocumentMoniker": "YouTube Downloader\\Services\\YouTubeDownloadServiceImpl.cs",
+              "ToolTip": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\Services\\YouTubeDownloadServiceImpl.cs",
+              "RelativeToolTip": "YouTube Downloader\\Services\\YouTubeDownloadServiceImpl.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwE4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:37:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IYouTubeDownloadService.cs",
+              "DocumentMoniker": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\Services\\IYouTubeDownloadService.cs",
+              "RelativeDocumentMoniker": "YouTube Downloader\\Services\\IYouTubeDownloadService.cs",
+              "ToolTip": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\Services\\IYouTubeDownloadService.cs",
+              "RelativeToolTip": "YouTube Downloader\\Services\\IYouTubeDownloadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:36:11.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\Form1.cs",
+              "RelativeDocumentMoniker": "YouTube Downloader\\Form1.cs",
+              "ToolTip": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\Form1.cs",
+              "RelativeToolTip": "YouTube Downloader\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvzAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:30:59.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\Form1.cs",
+              "RelativeDocumentMoniker": "YouTube Downloader\\Form1.cs",
+              "ToolTip": "C:\\Users\\otd6634\\source\\repos\\YouTube Downloader\\YouTube Downloader\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "YouTube Downloader\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:23:32.743Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
